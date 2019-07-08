@@ -1,0 +1,3 @@
+[submodule "jinja2_latexing"]
+	path = jinja2_latexing
+	url = https://github.com/aljedaxi/jinja2_latexing
